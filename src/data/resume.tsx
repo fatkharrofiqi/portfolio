@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Full-Stack Engineer | Golang, Node.js, React/Next.js | Building scalable systems for government & enterprises",
   summary:
-    "Experienced Software Engineer with a proven track record in fullstack development, distributed systems, and real-time applications. Currently at PT Koltiva (2023–present), leading backend & frontend initiatives using Go, Node.js, React, Next.js, and AWS. Former Team Lead at Brainmatics delivering mission-critical government platforms. Passionate about clean code, performance, and impactful solutions.",
+    "Experienced Software Engineer with a proven track record in fullstack development, distributed systems, and real-time applications. Most recently at PT Koltiva (2023–2025) as Software Engineer, working with Go, Node.js, React, Next.js, and AWS. Former Team Lead at Brainmatics delivering mission-critical government platforms. Passionate about clean code, performance, and impactful solutions.",
   avatarUrl: "/img_profile.jpg",
   cvUrl: "/achmad-fatkharrofiqi-cv.pdf",
   skills: [
@@ -64,7 +64,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/koltiva.png",
       start: "February 2023",
-      end: "Present",
+      end: "November 2025",
       description:
         "Fullstack development on Koltitrace & Cocoatrace platforms. Built scalable producer-consumer systems with AWS SQS + ECS, optimized APIs and third-party integrations, and created internal monitoring tools using AWS Lambda.",
     },
